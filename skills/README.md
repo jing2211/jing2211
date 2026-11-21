@@ -4,12 +4,13 @@
 
 | Задача | Скиллы |
 | --- | --- |
-| Дизайн и разработка сайтов | `frontend-design`, `frontend-developer`, `web-design-guidelines`, `web-performance-optimization` |
+| Дизайн и разработка сайтов | `frontend-design`, `frontend-developer`, `web-design-guidelines`, `web-performance-optimization`; `react-best-practices` для React и Next.js |
 | Проверка сайтов | `e2e-testing-patterns` |
-| Telegram-боты | `telegram-bot-builder`, `nodejs-backend-patterns` |
+| Telegram-боты | `telegram-bot-builder`, `nodejs-backend-patterns` для Node.js; `python-pro`, `python-testing-patterns` для Python |
 | Браузерные игры | `game-development` с разделами `web-games`, `2d-games`, `3d-games`, `game-design`; `3d-web-experience` для 3D в браузере |
 | Unity | `unity-developer`; `unity-ecs-patterns` для проектов на DOTS/ECS |
 | Поиск причин ошибок | `systematic-debugging` |
+| Проверка и защита кода | `code-review`, `lint-and-validate`, `api-security-best-practices` |
 
 Ранее сохранённые `threejs-lighting` и `threejs-materials` также полезны для браузерных 3D-игр.
 
